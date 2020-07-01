@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988240257202",
+    "firebase_url": "https://mtaavideo-d032c.firebaseio.com",
+    "project_id": "mtaavideo-d032c",
+    "storage_bucket": "mtaavideo-d032c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988240257202:android:6cab02371dc4ab941769ab",
+        "android_client_info": {
+          "package_name": "com.bruc3balo.mtaavideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988240257202-s4nufuf0v97gm6nn8ebupbd7jpbr57gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWSl-YrTUFZna5Ww39lT8MSSc_W4ZOuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988240257202-s4nufuf0v97gm6nn8ebupbd7jpbr57gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
